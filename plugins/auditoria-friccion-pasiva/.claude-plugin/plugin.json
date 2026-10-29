@@ -1,0 +1,8 @@
+{
+  "name": "auditoria-friccion-pasiva",
+  "version": "1.0.0",
+  "description": "Audita usabilidad con señales pasivas (capturas, eventos, embudos) sin pedir feedback directo; separa hechos, hipótesis y datos no observables.",
+  "author": {
+    "name": "Eric"
+  }
+}

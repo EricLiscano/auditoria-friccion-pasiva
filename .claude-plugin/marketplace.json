@@ -1,0 +1,16 @@
+{
+  "name": "auditoria-friccion-pasiva",
+  "owner": {
+    "name": "Eric"
+  },
+  "plugins": [
+    {
+      "name": "auditoria-friccion-pasiva",
+      "source": "./plugins/auditoria-friccion-pasiva",
+      "description": "Auditoría de fricción pasiva: indicadores de frustración, puntos de fuga, hipótesis de diseño y plan de acción."
+    }
+  ],
+  "metadata": {
+    "description": "Skill de auditoría UX basada en señales pasivas"
+  }
+}
